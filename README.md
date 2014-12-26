@@ -1,28 +1,20 @@
-Worthy - Free Bootstrap Template
+Gavin's Secret Santa
 =======================================================================
 
-Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
-You can use it for corporate, business and agency webpages as well as 
-portfolio and personal webpages.
+This is Gavin's secret santa page, developed for "Gang Does Secret Santa"
+on December 27, 2014. Obviously sarcastic, none of this is meant to be taken
+as a reflection of Gavin Reed, his friends, or his family.
 
-If you like the template and find it useful, please help us spread the word :-)
+Developer: Dorian Pistilli (https://github.com/dkpistilli)
+Last Edit: 25 December, 2014
 
-- Theme version: v1.0
-- Release Date: 13 Nov 2014
-- Author: HtmlCoder (http://htmlcoder.me)
-- Contact: http://htmlcoder.me/contact
-
-Live Preview
-=======================================================================
-http://www.htmlcoder.me/preview/worthy/v.1.0
-
-License
-=======================================================================
-Worthy is released under the Creative Commons Attribution 3.0 License
-https://creativecommons.org/licenses/by/3.0/
 
 Credits
 =======================================================================
+
+Template
+------------------------------------------------------
+- Worthy (http://www.htmlcoder.me/preview/worthy/v.1.0)
 
 Demo images
 ------------------------------------------------------
