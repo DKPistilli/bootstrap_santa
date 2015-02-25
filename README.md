@@ -5,7 +5,7 @@ This is Gavin's secret santa page, developed for "Gang Does Secret Santa"
 on December 27, 2014. Obviously sarcastic, none of this is meant to be taken
 as a reflection of Gavin Reed, his friends, or his family.
 
-[http://dkpistilli.github.io/bootstrap_santa/]
+http://dkpistilli.github.io/bootstrap_santa/
 
 Developer: Dorian Pistilli (https://github.com/dkpistilli)
 Last Edit: 25 February, 2014
